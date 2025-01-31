@@ -1,3 +1,8 @@
+# About
+> Blockchain DevTool is a powerful application for blockchain developers. It allows you to create and test smart contracts, manage transactions, simulate cross-chain interactions and analyze blockchain data. 
+> Supports Ethereum, Binance Smart Chain, Polygon, Solana, Avalanche and other networks. 
+> Local operation via RPC ensures security and speed of development. Unique smart contract builder, node management and AI-assistant help to accelerate the development of crypto projects. The simplicity of the interface and minimalism make the tool an ideal choice for professionals. Save time and test blockchain applications without spending gas.
+
 # Unique features
 ## 1. Visual Smart Contract Builder (Smart Contract Builder)****
 - Ability to create smart contracts via drag-and-drop interface (e.g. if/else logic, token management, DAO).
