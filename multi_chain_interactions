@@ -1,0 +1,20 @@
+class CrosschainBridge:
+    def __init__(self):
+        self.networks = {"Ethereum": {}, "Polkadot": {}}
+    
+    def send_token(self, from_network, to_network, user, amount):
+        if user not in self.networks[from_network] or self.networks[from_network][user] < amount:
+            return f"Error: Insufficient balance in {from_network}"
+        
+        # Уменьшение баланса в первой сети
+        self.networks[from_network][user] -= amount
+        # Увеличение баланса во второй сети
+        self.networks[to_network][user] = self.networks[to_network].get(user, 0) + amount
+        
+        return f"Successfully sent {amount} tokens from {from_network} to {to_network}"
+
+# Пример использования
+bridge = CrosschainBridge()
+bridge.networks["Ethereum"]["Alice"] = 100
+print(bridge.send_token("Ethereum", "Polkadot", "Alice", 50))
+print(bridge.networks)

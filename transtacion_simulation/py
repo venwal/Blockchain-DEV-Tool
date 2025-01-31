@@ -1,0 +1,18 @@
+class BlockchainSimulator:
+    def __init__(self):
+        self.accounts = {"Alice": 100, "Bob": 50}
+    
+    def transfer(self, sender, receiver, amount):
+        if self.accounts[sender] < amount:
+            return f"Error: {sender} has insufficient balance"
+        self.accounts[sender] -= amount
+        self.accounts[receiver] += amount
+        return f"Transfer successful: {amount} from {sender} to {receiver}"
+
+    def show_balances(self):
+        return self.accounts
+
+# Пример использования
+simulator = BlockchainSimulator()
+print(simulator.transfer("Alice", "Bob", 30))
+print(simulator.show_balances())
