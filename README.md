@@ -5,6 +5,7 @@
 
 # Download
 >Work on macOS and Windows
+
 1: Download .NET V4.5 [```Download .NET Module```](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
 
 2: Install Actual Precompile Release x32 / x64 👇
